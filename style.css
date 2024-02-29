@@ -10,8 +10,21 @@
 
 }
 
-.unlist{
+.list{
+    background-color: rgb(248, 144, 214);
+
+}
+.instr{
     font-size: 30px;
     background-color: rgb(255, 0, 255);
     
+}
+
+.para{
+    font-size: 20px;
+    background-color: rgb(185, 162, 247);
+}
+
+.link{
+    font-size: 40px;
 }
